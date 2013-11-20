@@ -6,8 +6,6 @@
 <?php
     echo "hello world";
 ?>
-    <p>ba ba ba ba ba nana </p>
-	<p>hahahaha </p>
-
+    <p>ba ba ba ba ba nana</p>
 </body>
 </html>
